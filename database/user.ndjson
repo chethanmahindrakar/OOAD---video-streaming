@@ -1,0 +1,9 @@
+{"ID": 1, "email": "dhanya@gmail.com", "password":"dhans123","firstName":"Dhanya","lastName":"G","age":"20","phoneNo":"9865563423"}
+{"ID": 2, "email": "atmik@gmail.com", "password": "atu123", "firstName": "Atmik", "lastName": "A", "age": "21", "phoneNo": "9362245534"}
+{"ID": 3, "email": "chethan@gmail.com", "password": "chethu123", "firstName": "Chethan", "lastName": "M", "age": "20", "phoneNo": "9845634552"}
+{"ID": 4, "email": "maya@gmail.com", "password": "maya123", "firstName": "Maya", "lastName": "Mehta", "age": "20", "phoneNo": "9908765555"}
+{"ID": 5, "email": "anya@gmail.com", "password": "anya123", "firstName": "Anya", "lastName": "Sharma", "age": "20", "phoneNo": "9963455534"}
+{"ID": 6, "email": "johnny@yahoo.com", "password": "johnny123", "firstName": "Johnny", "lastName": "Bravo", "age": "23", "phoneNo": "9887675543"}
+{"ID": 7, "email": "chutki@gmail.com", "password": "chutki123", "firstName": "Chutki", "lastName": "Singh", "age": "15", "phoneNo": "9998887765"}
+{"ID": 8, "email": "rani@gmail.com", "password": "rani123", "firstName": "Rani", "lastName": "Mukherjee", "age": "30", "phoneNo": "8889997654"}
+{"ID": 9, "email": "jane@gmail.com", "password": "jane123", "firstName": "Jane", "lastName": "Doe", "age": "45", "phoneNo": "9998882444"}
